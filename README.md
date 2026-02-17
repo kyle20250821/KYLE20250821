@@ -1,16 +1,30 @@
 #About me 
 
+# 👋 Hi, I'm Kyle
 
-**kyle20250821/KYLE CAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 我正在学习 / 探索：
+- AI 工具与自动化
+- 内容创作 & 直播相关工具
+- GitHub 上的实用项目（非纯技术向）
 
-Here are some ideas to get you started:
+💼 我目前在做：
+- 研究并整理可落地的 AI / 工具项目
+- 学习如何把技术工具用在实际业务中
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🧠 我的目标：
+- 不做“纯代码”，而是做「能解决问题的工具」
+- 把复杂的东西，变成普通人也能用的方案
+
+📌 我感兴趣的方向：
+- AI 应用 / 自动化
+- 内容平台（TikTok / 直播）
+- 工具型项目 / 效率提升
+
+📫 联系我：
+- Email: your@email.com
+- WeChat / Telegram（可选）
+
+✨ Motto：
+> Learn fast. Build simple. Execute.
+
 
