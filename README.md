@@ -21,8 +21,8 @@
 - 工具型项目 / 效率提升
 
 📫 联系我：
-- Email: your@email.com
-- WeChat / Telegram（可选）
+- Email: caokai@starbingo.cn
+- WeChat:15720001000
 
 ✨ Motto：
 > Learn fast. Build simple. Execute.
